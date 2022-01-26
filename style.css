@@ -62,3 +62,11 @@ footer {
 footer p {
     font-family: 'Heebo', sans-serif;
 }
+@media (max-width: 600px) {
+    section  {
+        width: 80%;
+    }
+    #res {
+        width: 80%;
+    }
+}
